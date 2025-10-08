@@ -55,6 +55,16 @@ Use this tool to create harmonious color combinations:
 
 [Generate a palette on Coolors](https://coolors.co/)
 
+---
+
+# Pattern Generator Demo
+
+Try this pattern generator directly on the page:
+
+<iframe src="pattern_generator/index.html" width="420" height="450"></iframe>
+
+---
+
 ## 🔗 Useful Links
 
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
