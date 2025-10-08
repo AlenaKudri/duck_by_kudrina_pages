@@ -1,5 +1,5 @@
-![logo]
-# 🧶 Duck by Kudrina 
+![logo](/duck_logo1.png)
+# Duck by Kudrina 
 **Eco crochet brand by Alena Kudrina**  
 *Minimalism, texture, and Scandinavian calm in every stitch.*
 
@@ -49,6 +49,11 @@ inspiration()
 
 ---
 
+## Color Pair Generator
+
+Use this tool to create harmonious color combinations:
+
+[Generate a palette on Coolors](https://coolors.co/)
 
 ## 🔗 Useful Links
 
@@ -60,10 +65,9 @@ inspiration()
 
 ## 🧭 Website Info
 
-- Hosted on: [GitHub Pages](https://pages.github.com/)
 - Repository: https://github.com/alenakudri/duck_by_kudrina_pages
 - Live website: https://alenakudri.github.io/duck_by_kudrina_pages/
 
 ---
 
-© 2025 Alena Kudrina — *Duck by Kudrina*
+© 2025 Alena Abaseva — *Duck by Kudrina*
