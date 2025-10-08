@@ -76,7 +76,7 @@ Try this pattern generator directly on the page:
 ## 🧭 Website Info
 
 - Repository: https://github.com/alenakudri/duck_by_kudrina_pages
-- Live website: https://alenakudri.github.io/duck_by_kudrina_pages/
+- Live website: https://alenakudri.github.io/duck_by_kudrina_pages
 
 ---
 
