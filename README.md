@@ -57,9 +57,9 @@ Use this tool to create harmonious color combinations:
 
 ## 🔗 Useful Links
 
-- 🌿 [Awesome WebAssembly Applications](https://github.com/appcypher/awesome-wasm-apps)
-- 🧷 [GitHub Pages Documentation](https://docs.github.com/en/pages)
-- ✨ [Duck by Kudrina on Instagram](https://www.instagram.com/duckbykudrina/)
+- [GitHub Pages Documentation](https://docs.github.com/en/pages)
+- [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github)
+- [Duck by Kudrina on Instagram](https://www.instagram.com/duckbykudrina/)
 
 ---
 
